@@ -1,5 +1,5 @@
 {
-    "name": "drupal/recommended-project",
+    "name": "birlasoft/drupal-cms",
     "description": "Project template for Drupal 8 projects with a relocated document root",
     "type": "project",
     "license": "GPL-2.0-or-later",
@@ -67,8 +67,8 @@
             ],
             "post-create-project-cmd-message": [
                 "<bg=blue;fg=white>                                                         </>",
-                "<bg=blue;fg=white>  Congratulations, you’ve installed the Drupal codebase  </>",
-                "<bg=blue;fg=white>  from the drupal/recommended-project template!          </>",
+                "<bg=blue;fg=white>  Congratulations, you’ve installed the Birlaosft Drupal CMS  </>",
+                "<bg=blue;fg=white>  from the birlasoft/drupal-cms template!          </>",
                 "<bg=blue;fg=white>                                                         </>",
                 "",
                 "<bg=yellow;fg=black>Next steps</>:",
