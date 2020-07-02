@@ -1,0 +1,60 @@
+name: BS CMS
+type: profile
+core: 8.x
+description: 'Install Birlasoft CMS with Basic Drupal features.'
+distribution:
+  name: 'BS CMS'
+dependencies:
+  # Standard
+  - node
+  - history
+  - big_pipe
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - comment
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - dblog
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - tour
+  - automated_cron
+
+  
+  # Contrib
+  - admin_toolbar
+  - search_api
+  - config_update
+  - features
+  - ctools
+  - entity
+  - pathauto
+  - profile
+  - restui
+  - taxonomy_menu
+  - taxonomy_term_depth
+  - token
+  - media
+  - media_library
+
