@@ -1,0 +1,6 @@
+name: bsl cms demo
+type: module
+description: 'Allows configuration of tasks to be executed in response to events.'
+package: Birlasoft CMS Pofile
+version: VERSION
+core: 8.x
