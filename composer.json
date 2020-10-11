@@ -17,6 +17,7 @@
     "require": {
         "composer/installers": "^1.2",
         "drupal/admin_toolbar": "^2.3",
+        "drupal/blog": "^3.0",
         "drupal/config_update": "^1.7",
         "drupal/core-composer-scaffold": "^8.8",
         "drupal/core-project-message": "^8.8",
@@ -30,7 +31,9 @@
         "drupal/search_api": "^1.17",
         "drupal/taxonomy_menu": "^3.4",
         "drupal/taxonomy_term_depth": "^2.4",
-        "drupal/token": "^1.7"
+        "drupal/token": "^1.7",
+        "drupal/xmlsitemap": "^1.0",
+        "drush/drush": "^10.3"
     },
     "conflict": {
         "drupal/drupal": "*"
