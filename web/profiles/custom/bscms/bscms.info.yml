@@ -57,8 +57,12 @@ dependencies:
   - token
   - media
   - media_library
+  - blog
+  - xmlsitemap
+  - bsl_cms_demo
   
   
 themes:
   - seven
+  - bartik
 
