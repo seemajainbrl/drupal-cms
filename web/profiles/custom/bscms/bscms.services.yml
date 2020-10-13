@@ -1,0 +1,4 @@
+services:
+  bscms.content_importer:
+    class: Drupal\bscms\ContentImporter
+    arguments: ['@entity_type.manager']

@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\bsl_cms_demo;
+namespace Drupal\bscms;
 
 use Drupal\commerce_product\Entity\ProductInterface;
 use Drupal\Core\Entity\ContentEntityInterface;
