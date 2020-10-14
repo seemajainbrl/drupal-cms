@@ -56,8 +56,10 @@ class ContentImporter {
     // the right import order, because there is no dependency tracking.
     $available_content = [
       ['taxonomy_term', 'tags'],
+      ['taxonomy_term', 'forums'],
       ['node', 'page'],
       ['node', 'blog_post'],
+      ['node', 'forum'],
       ['menu_link_content', 'menu_link_content'],
     ];
     foreach ($available_content as $keys) {

@@ -30,6 +30,17 @@ c3b36839-52ed-445e-b65b-c9e99a8449c9:
   rediscover: '1'
   weight: '-47'
   enabled: '1'
+cda98399-3022-4854-b83c-b6be7d332191:
+  bundle: menu_link_content
+  title: Forum
+  menu_name: main
+  link:
+    uri: 'internal:/forum'
+    title: ''
+    options: {  }
+  rediscover: '1'
+  weight: '-46'
+  enabled: '1'
 6131dd3e-5ada-4143-afe0-e8b9a78a2dd3:
   bundle: menu_link_content
   title: 'About us'
